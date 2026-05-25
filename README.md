@@ -1,0 +1,2 @@
+# vitetailwindtemplate
+# vitetailwindtemplate
